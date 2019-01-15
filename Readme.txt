@@ -1,15 +1,5 @@
 /**************************************************************************************************************\
 
-TEAM NAME : 
-	DEP Dinos
-TEAM MEMBERS : 
-	Swathy Sujit
-	Santosh Selvaraj
-	Giridhar Ravindran
-	Srihari Seshadri
-
-/**************************************************************************************************************\
-
 PROJECT :
 	Chicago Crimes - Does weather affect crime?
 	
